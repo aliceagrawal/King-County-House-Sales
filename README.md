@@ -24,7 +24,7 @@ Our model takes into account how well a house has been maintained. The differenc
 
 
 ## Grade
-We included grade or quality of construction, into our model because we can see an exponential increase in mean prices as the grade increases, especially once you get above a grade 9.  A grade 9 has "better architectural design with extra interior and exterior design and quality." according to the King County Assessor website.
+We included grade or quality of construction, into our model because we can see an exponential increase in mean prices as the grade increases, especially once you get above a grade 9.  A grade 9 has "better architectural design with extra interior and exterior design and quality" according to the King County Assessor website.
 
 ![Grade_bar](https://user-images.githubusercontent.com/100230332/161277275-47375dab-6ad2-4a62-b9fc-165b270a67e4.jpeg)
 
