@@ -63,7 +63,11 @@ Further analysis may prove beneficial in these areas:
 
 ## For Additional Information
 
-To see our data cleaning visit
+Our data sources can be found at https://github.com/aliceagrawal/King-County-House-Sales/tree/main/data
+To see our data cleaning, visit https://github.com/aliceagrawal/King-County-House-Sales/blob/main/Data%20Cleaning.ipynb
+To see how we created our models visit https://github.com/aliceagrawal/King-County-House-Sales/blob/main/Model%20Building.ipynb
+Our images and visualizations can be found at https://github.com/aliceagrawal/King-County-House-Sales/tree/main/Images
+
 
 
 
