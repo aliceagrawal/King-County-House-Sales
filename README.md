@@ -61,9 +61,13 @@ Further analysis may prove beneficial in these areas:
 
 
 
+## For Additional Information
+
+To see our data cleaning visit
 
 
 
+To view our presentation, see https://github.com/aliceagrawal/King-County-House-Sales/blob/main/King%20County%20Housing%20Data%20Presentation.pdf 
 ```
  ├── data
  ├── images
