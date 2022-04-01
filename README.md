@@ -19,13 +19,18 @@ We were hired by King County Real Estate Inc. to create a model that will predic
 
 We used the King County house sales data from 2014-2015 from Kaggle, and we also used data we found online that included zip codes and city names within King County, Washington. We merged the house sales data on zip codes so we could include city names, for more efficient grouping of sales.  Our data included the house condition, construction grade, view, and square feet of living area.
 
-## 
-
-
-
+## Condition
 ![Condtions_bar](https://user-images.githubusercontent.com/100230332/161176266-79ce730f-7e46-4f1c-abc5-01d5f5a15892.png)
+
+
+## Grade
 ![Grade_bar](https://user-images.githubusercontent.com/100230332/161176273-312ad9bf-9e26-4fbf-a705-1f2abb11b64c.png)
+
+## View
 ![View_bar](https://user-images.githubusercontent.com/100230332/161176280-277ed7ad-90cc-4e2c-9997-f91d36c3d79c.png)
+
+
+## City
 ![City_bar](https://user-images.githubusercontent.com/100230332/161176247-adeff2a1-6067-4895-b61a-a9c5754d6e3a.png)
 
 ## Conclusions
