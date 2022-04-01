@@ -1,5 +1,4 @@
-# King-County-House-Sales
-Phase 2 Project 
+# King County House Sales 
 
 ![1622375_1](https://user-images.githubusercontent.com/100230332/161176285-2bf0605c-5fef-408d-9f5e-2384c5dd4b34.jpeg)
 
@@ -39,6 +38,11 @@ We used the King County house sales data from 2014-2015 from Kaggle, and we also
 ## Next Steps
 
 ![cover-26-1255x600](https://user-images.githubusercontent.com/100230332/161176329-2b06cf07-8d67-42dd-ba2d-29dcea4a057b.jpeg)
+
+
+
+
+
 
 ├── data
 ├── images
