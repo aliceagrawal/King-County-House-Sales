@@ -20,7 +20,7 @@ We used the King County house sales data from 2014-2015 from Kaggle, and we also
 ## Condition
 Our model takes into account how well a house has been maintained. The difference in mean price between poor and fair isn't very high, but there is around a $150,000 expected increase between fair and average. Also there is a $50,000 expected increase between good and very good. Possible buyers are able to use this information and choose between getting a house for less and remodeling later or buying a house that will be in a great condition to start with.
 
-![Condtions_bar](https://user-images.githubusercontent.com/100230332/161176266-79ce730f-7e46-4f1c-abc5-01d5f5a15892.png)
+![Conditions_bar](https://user-images.githubusercontent.com/100230332/161277147-138a565f-c666-4516-a8ef-65325ba72570.jpeg)
 
 
 ## Grade
