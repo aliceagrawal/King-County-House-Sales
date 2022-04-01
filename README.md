@@ -49,7 +49,7 @@ Our model includes cities as key predictors of housing prices. Houses prices var
 
 
 ## Next Steps
-Further analysis may prove beneficial in the areas:
+Further analysis may prove beneficial in these areas:
 1. Fixing the waterfront data to better reflect whether a house is on the water.
 2. Finding data on School District Ratings within King County.
 3. Finding data on Crime Statistics of cities within King County.
