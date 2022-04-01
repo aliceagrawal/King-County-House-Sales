@@ -26,18 +26,20 @@ Our model takes into account how well a house has been maintained. The differenc
 ## Grade
 We included grade or quality of construction, into our model because we can see an exponential increase in mean prices as the grade increases, especially once you get above a grade 9.  A grade 9 has "better architectural design with extra interior and exterior design and quality." according to the King County Assessor website.
 
-![Grade_bar](https://user-images.githubusercontent.com/100230332/161176273-312ad9bf-9e26-4fbf-a705-1f2abb11b64c.png)
+![Grade_bar](https://user-images.githubusercontent.com/100230332/161277275-47375dab-6ad2-4a62-b9fc-165b270a67e4.jpeg)
+
 
 ## View
 Our model accounts for the quality of the view from the house and property. Having an Excellent view can nearly double the mean price of a house when compared with a house that has an Average or Good view.
-![View_bar](https://user-images.githubusercontent.com/100230332/161176280-277ed7ad-90cc-4e2c-9997-f91d36c3d79c.png)
+
+![View_bar](https://user-images.githubusercontent.com/100230332/161277320-68461ab1-d9f3-48e3-a567-0fbc782216ef.jpeg)
+
 
 
 ## City
 Our model includes cities as key predictors of housing prices. Houses prices vary according to the city they are in. Living within Seattle’s city limits gives you the options for a lower priced and there are also many other suburbs that have low priced options, like Renton, Bellevue, and Kirkland. Cities such as Medina, Fall City, and Black Diamond all have a mean price close to, or above, 1 million dollars.
 
-![City_bar](https://user-images.githubusercontent.com/100230332/161183225-d9c063b6-53db-4a5c-b341-edc1c7d116e1.png)
-
+![City_bar](https://user-images.githubusercontent.com/100230332/161277349-d3f0eb26-48ac-4e99-b8c0-837cb3cdad47.jpeg)
 
 
 ## Conclusions
