@@ -36,7 +36,8 @@ Our model accounts for the quality of the view from the house and property. Havi
 ## City
 Our model includes cities as key predictors of housing prices. Houses prices vary according to the city they are in. Living within Seattle’s city limits gives you the options for a lower priced and there are also many other suburbs that have low priced options, like Renton, Bellevue, and Kirkland. Cities such as Medina, Fall City, and Black Diamond all have a mean price close to, or above, 1 million dollars.
 
-![City_bar](https://user-images.githubusercontent.com/100230332/161183128-117278d3-edb1-44e0-8151-1a7ac78d56db.jpeg)
+![City_bar](https://user-images.githubusercontent.com/100230332/161183225-d9c063b6-53db-4a5c-b341-edc1c7d116e1.png)
+
 
 
 ## Conclusions
