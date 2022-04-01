@@ -58,19 +58,19 @@ Further analysis may prove beneficial in the areas:
 ![cover-26-1255x600](https://user-images.githubusercontent.com/100230332/161176329-2b06cf07-8d67-42dd-ba2d-29dcea4a057b.jpeg)
 
 
-![City_bar](https://user-images.githubusercontent.com/100230332/161183704-46e0542b-fcd4-4068-9837-793d06db3ecc.jpeg)
 
 
 
 
-├── data
-├── images
-├── IndividualNotebooks
-│       ├── Alice's Workspace
-│       ├── Marshall's Workspace
-│       └── Jordan's Workspace
-│
-├── gitignore
-├── King_County_final.ipynb
-├── King County Housing Data Presentation.pdf
-└── README.md
+
+ ├── data
+ ├── images
+ ├── IndividualNotebooks
+ │       ├── Alice's Workspace
+ │       ├── Marshall's Workspace
+ │       └── Jordan's Workspace
+ │
+ ├── gitignore
+ ├── King_County_final.ipynb
+ ├── King County Housing Data Presentation.pdf
+ └── README.md
