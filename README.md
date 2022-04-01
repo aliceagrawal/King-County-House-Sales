@@ -15,7 +15,7 @@ We were hired by King County Real Estate Inc. to create a model that will predic
 ![im-387931](https://user-images.githubusercontent.com/100230332/161176311-00d935e9-ec66-4310-ad70-9a59c222258a.jpeg)
 
 ## Data Understanding
-We used the King County house sales data from 2014-2015 from Kaggle, and we also used data we found online that included zip codes and city names within King County, Washington. We merged the house sales data on zip codes so we could include city names, for more efficient grouping of sales.  Our data included the house condition, construction grade, view, and square feet of living area.
+We used the King County house sales data from 2014-2015 from Kaggle, and we also used data we found online at https://worldpopulationreview.com/zips/washington that included zip codes and city names within King County, Washington. We merged the house sales data on zip codes so we could include city names, for more efficient grouping of sales.  Our data included the house condition, construction grade, view, and square feet of living area.
 
 ## Condition
 Our model takes into account how well a house has been maintained. The difference in mean price between poor and fair isn't very high, but there is around a $150,000 expected increase between fair and average. Also there is a $50,000 expected increase between good and very good. Possible buyers are able to use this information and choose between getting a house for less and remodeling later or buying a house that will be in a great condition to start with.
