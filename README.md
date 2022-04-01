@@ -10,7 +10,7 @@ Our team used multiple linear regression modeling to analyze house sales in King
 
 ## Business Problem
 
-We were hired by King County Real Estate Inc. to create a model that will predict housing prices and help their employees be more effecient way pairing clients with their perfect house. 
+We were hired by King County Real Estate Inc. to create a model that will predict housing prices and help their employees be more effecient at pairing clients with their perfect house. Our model will allow employees of King Count Real Estate Inc. to give pricing estimates based on buyer preferences.
 
 ![im-387931](https://user-images.githubusercontent.com/100230332/161176311-00d935e9-ec66-4310-ad70-9a59c222258a.jpeg)
 
@@ -21,7 +21,6 @@ We used the King County house sales data from 2014-2015 from Kaggle, and we also
 Our model takes into account how well a house has been maintained. The difference in mean price between poor and fair isn't very high, but there is around a $150,000 expected increase between fair and average. Also there is a $50,000 expected increase between good and very good. Possible buyers are able to use this information and choose between getting a house for less and remodeling later or buying a house that will be in a great condition to start with.
 
 ![Conditions_bar](https://user-images.githubusercontent.com/100230332/161277147-138a565f-c666-4516-a8ef-65325ba72570.jpeg)
-
 
 ## Grade
 We included grade or quality of construction, into our model because we can see an exponential increase in mean prices as the grade increases, especially once you get above a grade 9.  A grade 9 has "better architectural design with extra interior and exterior design and quality" according to the King County Assessor website.
