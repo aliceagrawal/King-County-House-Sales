@@ -2,6 +2,7 @@
 Phase 2 Project 
 ![1622375_1](https://user-images.githubusercontent.com/100230332/161176285-2bf0605c-5fef-408d-9f5e-2384c5dd4b34.jpeg)
 
+#Overview
 
 
 
@@ -15,3 +16,15 @@ Phase 2 Project
 ![Grade_bar](https://user-images.githubusercontent.com/100230332/161176273-312ad9bf-9e26-4fbf-a705-1f2abb11b64c.png)
 ![View_bar](https://user-images.githubusercontent.com/100230332/161176280-277ed7ad-90cc-4e2c-9997-f91d36c3d79c.png)
 ![cover-26-1255x600](https://user-images.githubusercontent.com/100230332/161176329-2b06cf07-8d67-42dd-ba2d-29dcea4a057b.jpeg)
+
+├── data
+├── images
+├── IndividualNotebooks
+│       ├── Alice's Workspace
+│       ├── Marshall's Workspace
+│       └── Jordan's Workspace
+│
+├── gitignore
+├── King_County_final.ipynb
+├── King County Housing Data Presentation.pdf
+└── README.md
